@@ -6,7 +6,7 @@ const Background = styled("main")`
 	position: relative;
 	width: 100vw;
     height: 100vh;
-	opacity: .2;
+	opacity: .6;
     color: white;
 	font-family: Helvetica Neue;
 
