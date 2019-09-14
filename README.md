@@ -4,13 +4,16 @@
 
 ### Widgets
 
-- System Date / Time
-- iTunes Now Playing
-- Laptop / Mouse Battery Life (Magic Mouse 2 only)
-- CPU Status
-- RAM Status
-- LAN IP
-- WAN IP
+- sk-background-shift - Adds vaporwave gradient overlay with scanline effect
+- sk-itunes
+- sk-system-monitors / clock
+- sk-system-monitors / fuel-computer
+- sk-system-monitors / fuel-mouse
+- sk-system-monitors / cpu-percent
+- sk-system-monitors / cpu-top
+- sk-system-monitors / memory-total
+- sk-system-monitors / ip-lan
+- sk-system-monitors / ip-wan
 
 ### To Do
 
