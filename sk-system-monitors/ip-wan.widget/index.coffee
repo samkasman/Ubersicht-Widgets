@@ -1,6 +1,6 @@
 command: "curl -s checkip.dyndns.org|sed -e 's/.*Current IP Address: //' -e 's/<.*$//'"
 
-refreshFrequency: 21600000 # 6 hours
+refreshFrequency: 600000 # ms - 10 minutes
 
 style: """
   bottom: 40px
