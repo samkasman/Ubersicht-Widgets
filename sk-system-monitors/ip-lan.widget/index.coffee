@@ -1,6 +1,6 @@
 command: "ifconfig | grep -i 192.168."
 
-refreshFrequency: 1000
+refreshFrequency: 86400000 # ms - 24hrs
 
 style: """
   bottom: 40px
