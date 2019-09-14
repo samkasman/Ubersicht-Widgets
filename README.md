@@ -4,7 +4,7 @@
 
 ### Widgets
 
-- sk-background-shift - Adds   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
+- sk-background-shift - Adds a   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
 - sk-itunes - Outputs iTunes now playing album art/metadata
 - sk-system-monitors / clock
 - sk-system-monitors / fuel-computer
