@@ -5,7 +5,7 @@
 ### Widgets
 
 - sk-background-shift - Adds vaporwave gradient overlay with scanline effect
-- sk-itunes
+- sk-itunes - Outputs iTunes now playing album art/metadata
 - sk-system-monitors / clock
 - sk-system-monitors / fuel-computer
 - sk-system-monitors / fuel-mouse
@@ -26,3 +26,14 @@
 - Quotes
 - Minecraft players online
 - Social media follower counts
+
+# Credits
+
+Initially based on some widgets by:
+
+- George Irwin
+- mfam
+- Aliceljm
+- Johan Bleuzen
+- Spencer Oberstadt
+- Felix Hageloh
