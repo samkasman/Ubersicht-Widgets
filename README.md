@@ -1,6 +1,6 @@
 #  SK Übersicht
 
-![Screenshot](https://raw.githubusercontent.com/samkasman/Ubersicht/master/screenshot.jpg?token=AESV6HKXAEUZ7ROLI72BKSS5PVYQO)
+![Screenshot](https://raw.githubusercontent.com/samkasman/SK-Ubersicht/master/screenshot.jpg?token=AESV6HMN3UGPC3I2L2Z6YE25PV3YU)
 
 ### Widgets
 
