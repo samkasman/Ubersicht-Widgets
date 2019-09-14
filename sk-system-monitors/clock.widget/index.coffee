@@ -14,7 +14,7 @@ style: """
   font-family: Helvetica Neue
   left: 40px
   top: 40px
-  background-color: rgba(0,0,0,0.4)
+  background-color: rgba(0,0,0,0.72)
   padding: 0 20px;
 
   h1

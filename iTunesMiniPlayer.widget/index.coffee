@@ -25,7 +25,7 @@ style: """
         display: flex
         flex-direction: column
         justify-content: center
-        background-color: rgba(0,0,0,0.4)
+        background-color: rgba(0,0,0,0.72)
         padding: 0 20px;
         min-height: 124px
     img
