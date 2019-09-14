@@ -1,1 +1,1 @@
-[screenshot]: https://raw.githubusercontent.com/samkasman/Ubersicht/master/screenshot.jpg?token=AESV6HKXAEUZ7ROLI72BKSS5PVYQO "Screenshot"
+![Screenshot](https://raw.githubusercontent.com/samkasman/Ubersicht/master/screenshot.jpg?token=AESV6HKXAEUZ7ROLI72BKSS5PVYQO)
