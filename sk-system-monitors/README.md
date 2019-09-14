@@ -2,7 +2,7 @@
 
 Authors of the various widgets include:
 
-- [Sam Kasman](https://github.com/samkasman.com)
+- [Sam Kasman](https://github.com/samkasman)
 - George Irwin
 - mfam
 - Aliceljm
