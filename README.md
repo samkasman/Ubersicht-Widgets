@@ -1,5 +1,4 @@
 #  SK Übersicht
-macOS desktop customizations
 
 ![Screenshot](https://github.com/samkasman/SK-Ubersicht/blob/master/screenshot.jpg)
 
