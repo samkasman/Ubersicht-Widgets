@@ -1,4 +1,4 @@
-# command: "curl -s checkip.dyndns.org|sed -e 's/.*Current IP Address: //' -e 's/<.*$//'"
+command: "ifconfig | grep -i 192.168."
 
 refreshFrequency: 1000
 
@@ -26,8 +26,9 @@ style: """
 
 
 render: -> """
-  <div class="wan-ip">LAN:<span class='ip_address'>192.168.1.222</span></div>
+  <div class="wan-ip">LAN:<span class='ip_address'></span></div>
 """
 
 update: (output, domEl) ->
+  output = output.substr(6).slice(0, -44)
   $(domEl).find('.ip_address').html(output)
