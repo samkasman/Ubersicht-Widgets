@@ -21,5 +21,5 @@
 - WiFi Network + info
 - Weather
 - Quotes
-- Plebcraft users online
-- Social Media Follower Counts
+- Minecraft players online
+- Social media follower counts
