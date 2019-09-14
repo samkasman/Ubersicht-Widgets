@@ -58,7 +58,7 @@ render: -> """
     </div>
 """
 
-command: "osascript 'iTunesMiniPlayer.widget/iTunes.scpt'"
+command: "osascript 'sk-itunes/iTunes.scpt'"
 
 update: (output, domEl) ->
     iTunesvalues = output.split('~')
@@ -67,8 +67,8 @@ update: (output, domEl) ->
     $(domEl).find('#iTunesTitle').text("#{iTunesvalues[0]}")
 
     if iTunesvalues[0] != " " && iTunesvalues[1] != " "
-        html = "<img src='iTunesMiniPlayer.widget/images/albumart.jpg'><img src='iTunesMiniPlayer.widget/images/albumart.jpg'><img src='iTunesMiniPlayer.widget/images/albumart.jpg'>"
+        html = "<img src='sk-itunes/images/albumart.jpg'><img src='sk-itunes/images/albumart.jpg'><img src='sk-itunes/images/albumart.jpg'>"
         $(domEl).find('#cover').html("")
         $(domEl).find('#cover').html(html)
     else
-        $(domEl).find('#cover').html("<img src='iTunesMiniPlayer.widget/images/default.png'>")
+        $(domEl).find('#cover').html("<img src='sk-itunes/images/default.png'>")
