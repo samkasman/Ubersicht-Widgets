@@ -6,6 +6,8 @@
 
 ### Getting Started
 
+Designed for use on a 4K UHD monitor
+
 1. Install [Übersicht](http://tracesof.net/uebersicht/)
 1. Clone the repo into your `Widgets Folder`
 1. Hack it up
