@@ -1,6 +1,5 @@
 import { React } from "uebersicht"
 import { styled } from "uebersicht" // Emotion styles - https://emotion.sh/
-import { run } from "uebersicht" // run extra commands
 
 const Background = styled("main")`
 	position: relative;
