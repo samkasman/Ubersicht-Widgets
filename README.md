@@ -26,6 +26,7 @@
 ### To Do
 
 - CPU voltage
+- Fan speed
 - Service monitoring (IP/Port)
 - Apple Reminders
 - Apple Calendar
