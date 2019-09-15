@@ -29,11 +29,7 @@
 
 # Credits
 
-Initially based on some widgets by:
+Initially based on:
 
-- George Irwin
-- mfam
-- Aliceljm
-- Johan Bleuzen
-- Spencer Oberstadt
-- Felix Hageloh
+http://tracesof.net/uebersicht-widgets/#iTunesMiniPlayer_widget
+http://tracesof.net/uebersicht-widgets/#sys-mon-set
