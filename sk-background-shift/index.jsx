@@ -2,7 +2,9 @@ import { React } from "uebersicht"
 import { styled } from "uebersicht" // Emotion styles - https://emotion.sh/
 
 const Background = styled("main")`
-	position: relative;
+	position: absolute;
+	top: 0;
+	left: 0;
 	width: 100vw;
     height: 100vh;
 	opacity: .6;
@@ -27,8 +29,19 @@ const Background = styled("main")`
 	}
 `
 
+const Sidebar = styled("aside")`
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 560px;
+    height: 100vh;
+	opacity: .6;
+	background-color: rgba(255,255,255,0.32);
+`
+
 export const render = () => (
 	<>
+		<Sidebar />
 		<Background />
 	</>
 )

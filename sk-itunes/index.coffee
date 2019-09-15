@@ -4,7 +4,7 @@ style: """
     position:absolute
     width: 441px
     margin:0px
-    bottom: 240px
+    top: 113px
     left: 40px
     color:#FFF
 

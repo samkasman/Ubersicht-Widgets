@@ -5,6 +5,7 @@ refreshFrequency: 600000 # ms - 10 minutes
 style: """
   bottom: 40px
   left: 277px
+  min-width: 224px;
   color: #fff
   font-family: 'Helvetica Neue'
   background-color: rgba(0,0,0,0.72)
@@ -16,7 +17,9 @@ style: """
     font-size: 24px
     font-weight: 200
 
-  span
+  .ip_address
+    width: 100%
+    text-align: right
     display: block
     text-shadow: 0 0 1px rgba(#000, 0.5)
     padding-left: 12px
@@ -30,4 +33,6 @@ render: -> """
 """
 
 update: (output, domEl) ->
+  # Hide IP for screenshots
+  # $(domEl).find('.ip_address').html("127.0.0.1")
   $(domEl).find('.ip_address').html(output)

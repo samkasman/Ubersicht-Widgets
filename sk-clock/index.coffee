@@ -13,7 +13,7 @@ style: """
   color: #FFFFFF
   font-family: 'VCR OSD Mono'
   left: 40px
-  bottom: 380px
+  top: 40px
   background-color: rgba(0,0,0,0.72)
   padding: 10px;
   min-width: 461px
