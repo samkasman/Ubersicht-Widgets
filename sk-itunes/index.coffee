@@ -3,13 +3,12 @@ refreshFrequency: 4000
 style: """
     position:absolute
     margin:0px
-    top: 140px
+    top: 118px
     left: 40px
-    width:auto
     color:#FFF
 
     .player {
-        width: 552px;
+        width: 461px
         height: 138px
     }
     #cover
@@ -19,15 +18,14 @@ style: """
 
     .meta
         position: relative;
+        min-height: 115px
         width: 75%
-        height: 100%
         margin: 0 0 0 25%;
         display: flex
         flex-direction: column
         justify-content: center
         background-color: rgba(0,0,0,0.72)
         padding: 0 20px;
-        min-height: 124px
     img
         position: relative
         width: 100%
