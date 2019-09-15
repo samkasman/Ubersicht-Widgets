@@ -31,5 +31,5 @@
 
 Initially based on:
 
-http://tracesof.net/uebersicht-widgets/#iTunesMiniPlayer_widget
-http://tracesof.net/uebersicht-widgets/#sys-mon-set
+- [iTunes Mini Player](http://tracesof.net/uebersicht-widgets/#iTunesMiniPlayer_widget)
+- [Sysmon Set](http://tracesof.net/uebersicht-widgets/#sys-mon-set)
