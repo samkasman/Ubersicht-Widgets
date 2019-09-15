@@ -3,7 +3,7 @@ refreshFrequency: 4000
 style: """
     position:absolute
     margin:0px
-    top: 118px
+    top: 160px
     left: 40px
     color:#FFF
 

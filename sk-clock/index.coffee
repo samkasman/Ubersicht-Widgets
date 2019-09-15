@@ -11,15 +11,21 @@ render: (output) -> """
 
 style: """
   color: #FFFFFF
-  font-family: 'Helvetica Neue'
+  font-family: 'VCR OSD Mono'
   left: 40px
   top: 40px
   background-color: rgba(0,0,0,0.72)
-  padding: 0 20px;
-  width: 461px
+  padding: 10px 22px;
+  min-width: 480px
+
+  @font-face {
+    font-family: 'VCR OSD MONO';
+    src: url('sk-clock/VCR_OSD_MONO.ttf');
+  }
 
   h1
-    font-size: 64px
+    font-family: 'VCR OSD MONO';
+    font-size: 100px
     font-weight: 100
     margin: 0
     padding: 0
