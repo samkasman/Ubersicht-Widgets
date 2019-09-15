@@ -4,10 +4,11 @@
 
 ## General Info
 
-### Installation
+### Getting Started
 
 1. Install [Übersicht](http://tracesof.net/uebersicht/)
-2. Clone the repo into your `Widgets Folder`
+1. Clone the repo into your `Widgets Folder`
+1. Hack it up
 
 ### Widgets
 
