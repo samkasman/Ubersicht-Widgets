@@ -2,13 +2,14 @@
 refreshFrequency: 4000
 style: """
     position:absolute
+    width: 441px
     margin:0px
-    top: 160px
+    bottom: 245px
     left: 40px
     color:#FFF
 
     .player {
-        width: 461px
+        width: 100%
         height: 138px
     }
     #cover
