@@ -8,14 +8,14 @@
 
 - sk-background-shift - Adds a   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
 - sk-itunes - Outputs iTunes now playing album art/metadata
-- sk-clock
-- sk-fuel-computer
-- sk-fuel-mouse
-- sk-cpu-percent
-- sk-cpu-top
-- sk-memory-total
-- sk-ip-lan
-- sk-ip-wan
+- sk-clock - Displays date/time
+- sk-fuel-computer - Displays laptop battery life
+- sk-fuel-mouse - Displays Magic Mouse 2 battery life
+- sk-cpu-percent - Displays CPU usage percentage
+- sk-cpu-top - Displays top 3 CPU processes and usage percentages
+- sk-memory-total - Displays RAM info
+- sk-ip-lan - Displays LAN IP
+- sk-ip-wan - Displays WAN IP
 
 ### To Do
 
