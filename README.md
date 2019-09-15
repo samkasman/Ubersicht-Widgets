@@ -6,7 +6,8 @@
 
 ### Installation
 
-Requires [Übersicht](http://tracesof.net/uebersicht/)
+1. Install [Übersicht](http://tracesof.net/uebersicht/)
+2. Clone the repo into your `Widgets Folder`
 
 ### Widgets
 
