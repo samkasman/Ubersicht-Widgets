@@ -23,7 +23,9 @@
 - Apple Reminders
 - Apple Calendar
 - Audio Input / Output devices + info
-- WiFi Network + info
+- LAN / WiFi info
+- Network stats
+- Bluetooth info
 - Weather
 - Quotes
 - Minecraft players online
