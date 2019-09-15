@@ -8,14 +8,14 @@
 
 - sk-background-shift - Adds a   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
 - sk-itunes - Outputs iTunes now playing album art/metadata
-- sk-system-monitors / clock
-- sk-system-monitors / fuel-computer
-- sk-system-monitors / fuel-mouse
-- sk-system-monitors / cpu-percent
-- sk-system-monitors / cpu-top
-- sk-system-monitors / memory-total
-- sk-system-monitors / ip-lan
-- sk-system-monitors / ip-wan
+- sk-clock
+- sk-fuel-computer
+- sk-fuel-mouse
+- sk-cpu-percent
+- sk-cpu-top
+- sk-memory-total
+- sk-ip-lan
+- sk-ip-wan
 
 ### To Do
 
