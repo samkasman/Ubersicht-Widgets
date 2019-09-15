@@ -19,6 +19,7 @@
 
 ### To Do
 
+- CPU voltage
 - Service monitoring (IP/Port)
 - Apple Reminders
 - Apple Calendar
