@@ -4,6 +4,10 @@
 
 ## General Info
 
+### Installation
+
+Requires [Übersicht](http://tracesof.net/uebersicht/)
+
 ### Widgets
 
 - sk-background-shift - Adds a   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
