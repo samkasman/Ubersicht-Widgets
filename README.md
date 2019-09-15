@@ -16,7 +16,7 @@ Designed for use on a 4K UHD monitor, but it should look fine at any reasonable 
 
 - sk-background-shift - Adds a   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
 - sk-itunes - Outputs iTunes now playing album art/metadata
-- sk-clock - Displays date/time
+- sk-clock - Displays date/time using a VHS-inspired font
 - sk-fuel-computer - Displays laptop battery life
 - sk-fuel-mouse - Displays Magic Mouse 2 battery life
 - sk-cpu-percent - Displays CPU usage percentage
