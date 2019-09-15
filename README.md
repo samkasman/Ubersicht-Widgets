@@ -4,7 +4,7 @@
 
 ## General Info
 
-Designed for use on a 4K UHD monitor
+Designed for use on a 4K UHD monitor, but it should look fine at any reasonable size.
 
 ### Getting Started
 
