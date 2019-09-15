@@ -6,7 +6,7 @@ style: """
   display: flex
   bottom: 206px
   left: 40px
-  min-width: 200px;
+  width: 461px
   color: #fff
   font-family: Helvetica Neue
   background-color: rgba(0,0,0,0.72)

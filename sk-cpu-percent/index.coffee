@@ -4,9 +4,9 @@ refreshFrequency: 1000
 
 style: """
   display: flex
+  width: 461px
   bottom: 175px
   left: 40px
-  min-width: 200px;
   color: #fff
   font-family: Helvetica Neue
   background-color: rgba(0,0,0,0.72)
@@ -14,7 +14,7 @@ style: """
   text-shadow: 0 0 1px rgba(#000, 0.5)
   font-size: 24px
 
-  .cpu-status
+  .battery-status
     display: flex
     font-weight: 200
 
@@ -27,10 +27,8 @@ style: """
 
 
 render: -> """
-  <div class="cpu-status">
-    CPU Usage:
-  </div>
-  <div class='percentage'/>
+
+  <div class="battery-status">CPU:</div><div class='percentage'></div>
 """
 
 update: (output, domEl) ->

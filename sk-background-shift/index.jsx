@@ -12,7 +12,7 @@ const Background = styled("main")`
 
 	&:before,
 	&:after {
-		position: fixed;
+		position: absolute;
 		content: "";
 		top: 0;
 		left: 0;
