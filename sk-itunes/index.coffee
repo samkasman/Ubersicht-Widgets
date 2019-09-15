@@ -4,7 +4,7 @@ style: """
     position:absolute
     width: 441px
     margin:0px
-    bottom: 245px
+    bottom: 240px
     left: 40px
     color:#FFF
 
@@ -12,14 +12,16 @@ style: """
         width: 100%
         height: 138px
     }
+
     #cover
         position: relative
         display:block
         width: 25%
+        height: auto
 
     .meta
         position: relative;
-        min-height: 115px
+        min-height: 110px
         width: 75%
         margin: 0 0 0 25%;
         display: flex
