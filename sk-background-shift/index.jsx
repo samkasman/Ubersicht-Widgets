@@ -8,7 +8,7 @@ const Background = styled("main")`
     height: 100vh;
 	opacity: .6;
     color: white;
-	font-family: Helvetica Neue;
+	font-family: 'Helvetica Neue';
 
 	&:before,
 	&:after {

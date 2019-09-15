@@ -8,7 +8,7 @@ style: """
   bottom: 175px
   left: 40px
   color: #fff
-  font-family: Helvetica Neue
+  font-family: 'Helvetica Neue'
   background-color: rgba(0,0,0,0.72)
   padding: 0 10px;
   text-shadow: 0 0 1px rgba(#000, 0.5)

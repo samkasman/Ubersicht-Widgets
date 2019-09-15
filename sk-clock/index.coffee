@@ -11,7 +11,7 @@ render: (output) -> """
 
 style: """
   color: #FFFFFF
-  font-family: Helvetica Neue
+  font-family: 'Helvetica Neue'
   left: 40px
   top: 40px
   background-color: rgba(0,0,0,0.72)

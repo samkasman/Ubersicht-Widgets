@@ -36,7 +36,7 @@ style: """
     h1,
     p
         margin: 0
-        font-family: Helvetica Neue
+        font-family: 'Helvetica Neue'
         font-size: 20px
         font-weight: 100
         margin: 0;

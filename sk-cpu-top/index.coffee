@@ -7,7 +7,7 @@ style: """
   left: 40px
   min-width: 461px;
   color: #fff
-  font-family: Helvetica Neue
+  font-family: 'Helvetica Neue'
   background-color: rgba(0,0,0,0.72)
   padding: 0 10px;
 
