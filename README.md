@@ -2,6 +2,8 @@
 
 ![Screenshot](https://github.com/samkasman/SK-Ubersicht/blob/master/screenshot.jpg)
 
+## General Info
+
 ### Widgets
 
 - sk-background-shift - Adds a   [`v a p o r w a v e`]   [`a e s t h e t i c`]   gradient overlay with scanline effect
@@ -27,7 +29,7 @@
 - Minecraft players online
 - Social media follower counts
 
-# Credits
+## Credits
 
 Initially based on:
 
