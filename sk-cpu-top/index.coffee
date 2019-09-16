@@ -43,7 +43,6 @@ style: """
     right: 2px
     font-size: 10px
     font-weight: normal
-
 """
 
 

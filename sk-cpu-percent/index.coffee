@@ -22,12 +22,10 @@ style: """
     flex: 1
     font-weight: 100
     text-align: right
-
 """
 
 
 render: -> """
-
   <div class="battery-status">CPU:</div><div class='percentage'></div>
 """
 

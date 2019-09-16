@@ -24,7 +24,6 @@ style: """
     text-shadow: 0 0 1px rgba(#000, 0.5)
     padding-left: 12px
     font-weight: 100
-
 """
 
 

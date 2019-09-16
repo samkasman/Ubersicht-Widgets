@@ -35,8 +35,8 @@ const Sidebar = styled("aside")`
 	left: 0;
 	width: 560px;
     height: 100vh;
-	opacity: .6;
-	background-color: rgba(255,255,255,0.32);
+	opacity: 1;
+	background-color: rgba(255,255,255,.2);
 `
 
 export const render = () => (
