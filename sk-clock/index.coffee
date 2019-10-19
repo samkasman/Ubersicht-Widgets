@@ -33,11 +33,11 @@ style: """
   @-webkit-keyframes glow {
     from {
       text-shadow: 0 0 0px #fff, 0 0 10px #fff, 0 0 20px #e60073, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 70px #e60073;
-      opacity: 0.2;
+      opacity: 0.6;
     }
     to {
       text-shadow: 0 0 5px #fff, 0 0 15px #ff4da6, 0 0 25px #ff4da6, 0 0 35px #ff4da6, 0 0 45px #ff4da6, 0 0 55px #ff4da6, 0 0 75px #ff4da6;
-      opacity: 0.85;
+      opacity: 1;
     }
   }
   """

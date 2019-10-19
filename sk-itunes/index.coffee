@@ -27,7 +27,7 @@ style: """
         display: flex
         flex-direction: column
         justify-content: center
-        background-color: rgba(0,0,0,0.72)
+        background-color: rgba(0,0,0,.4)
         padding: 0 20px;
     img
         position: relative

@@ -8,7 +8,7 @@ style: """
   min-width: 461px;
   color: #fff
   font-family: 'Helvetica Neue'
-  background-color: rgba(0,0,0,0.72)
+  background-color: rgba(0,0,0,.4)
   padding: 0 10px;
 
   table
@@ -21,7 +21,6 @@ style: """
     width: 100px
     max-width: 100px
     overflow: ellipsis
-    text-shadow: 0 0 1px rgba(#000, 0.5)
 
   .wrapper
     padding: 4px 6px 4px 6px

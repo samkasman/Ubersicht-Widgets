@@ -6,11 +6,10 @@ const Background = styled("main")`
 	top: 0;
 	left: 0;
 	width: 100vw;
-    height: 100vh;
-	opacity: .6;
-    color: white;
-	font-family: 'Helvetica Neue';
+	height: 100vh;
+	opacity: 0.2;
 
+	// Gradient / Scanline overlay
 	&:before,
 	&:after {
 		position: absolute;
@@ -20,12 +19,13 @@ const Background = styled("main")`
 		width: 100%;
 		height: 100%;
 	}
-	&:before {
-		background-image: linear-gradient(180deg, #00F6F8 0%, #FD7CCD 100%);
-	}
+	// &:before {
+	// 	background-image: linear-gradient(180deg, #00F6F8 0%, #FD7CCD 100%);
+	// }
 	&:after {
 		background-image: url('sk-background-shift/scanline.png');
-		background-repeat: repeat;
+		opacity: 0.3;
+		z-index: 2;
 	}
 `
 
@@ -36,7 +36,7 @@ const Sidebar = styled("aside")`
 	width: 560px;
     height: 100vh;
 	opacity: 1;
-	background-color: rgba(255,255,255,.2);
+	background-color: rgba(0,0,0,.5);
 `
 
 export const render = () => (

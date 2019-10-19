@@ -27,6 +27,7 @@ Designed for use on a 4K UHD monitor, but it should look fine at any reasonable 
 
 ### To Do
 
+- Philips Hue
 - CPU voltage
 - Fan speed
 - Service monitoring (IP/Port)

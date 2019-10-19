@@ -9,7 +9,7 @@ style: """
   width: 461px
   color: #fff
   font-family: 'Helvetica Neue'
-  background-color: rgba(0,0,0,0.72)
+  background-color: rgba(0,0,0,.4)
   padding: 0 10px;
   text-shadow: 0 0 1px rgba(#000, 0.5)
   font-size: 24px

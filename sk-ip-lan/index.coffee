@@ -1,13 +1,13 @@
-command: "ifconfig | grep -i 192.168."
+command: "ifconfig | grep -i 192.168.1"
 
-refreshFrequency: 86400000 # ms - 24hrs
+refreshFrequency: 50000 # ms - 5 mins
 
 style: """
   bottom: 40px
   left: 40px
   color: #fff
   font-family: 'Helvetica Neue'
-  background-color: rgba(0,0,0,0.72)
+  background-color: rgba(0,0,0,.4)
   padding: 0 10px;
 
   .wan-ip
@@ -29,5 +29,5 @@ render: -> """
 """
 
 update: (output, domEl) ->
-  output = output.substr(6).slice(0, -44)
+  output = output.substr(6).slice(0, -106)
   $(domEl).find('.ip_address').html(output)

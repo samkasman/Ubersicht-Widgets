@@ -11,7 +11,7 @@ style: """
   min-width: 461px;
   color: #fff
   font-family: 'Helvetica Neue'
-  background-color: rgba(0,0,0,0.72)
+  background-color: rgba(0,0,0,.4)
   padding: 0 10px;
 
   table
