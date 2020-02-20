@@ -53,23 +53,23 @@ render: -> """
         <div id="cover"></div>
         <div class="meta">
             <p>Now Playing:</p>
-            <p id="iTunesTitle"></p>
-            <p id="iTunesArtist"></p>
+            <p id="title"></p>
+            <p id="artist"></p>
         </div>
     </div>
 """
 
-command: "osascript 'sk-itunes/iTunes.scpt'"
+command: "osascript 'sk-music/Music.scpt'"
 
 update: (output, domEl) ->
     iTunesvalues = output.split('~')
 
-    $(domEl).find('#iTunesArtist').text("#{iTunesvalues[1]}")
-    $(domEl).find('#iTunesTitle').text("#{iTunesvalues[0]}")
+    $(domEl).find('#artist').text("#{iTunesvalues[1]}")
+    $(domEl).find('#title').text("#{iTunesvalues[0]}")
 
     if iTunesvalues[0] != " " && iTunesvalues[1] != " "
-        html = "<img src='sk-itunes/images/albumart.jpg'><img src='sk-itunes/images/albumart.jpg'><img src='sk-itunes/images/albumart.jpg'>"
+        html = "<img src='sk-music/images/albumart.jpg'><img src='sk-music/images/albumart.jpg'><img src='sk-music/images/albumart.jpg'>"
         $(domEl).find('#cover').html("")
         $(domEl).find('#cover').html(html)
     else
-        $(domEl).find('#cover').html("<img src='sk-itunes/images/default.png'>")
+        $(domEl).find('#cover').html("<img src='sk-music/images/default.png'>")
