@@ -59,7 +59,7 @@ render: -> """
     </div>
 """
 
-command: "osascript 'sk-music/Music.scpt'"
+command: "osascript 'apple-music/Music.scpt'"
 
 update: (output, domEl) ->
     iTunesvalues = output.split('~')
@@ -68,8 +68,8 @@ update: (output, domEl) ->
     $(domEl).find('#title').text("#{iTunesvalues[0]}")
 
     if iTunesvalues[0] != " " && iTunesvalues[1] != " "
-        html = "<img src='sk-music/images/albumart.jpg'><img src='sk-music/images/albumart.jpg'><img src='sk-music/images/albumart.jpg'>"
+        html = "<img src='apple-music/images/albumart.jpg'><img src='apple-music/images/albumart.jpg'><img src='apple-music/images/albumart.jpg'>"
         $(domEl).find('#cover').html("")
         $(domEl).find('#cover').html(html)
     else
-        $(domEl).find('#cover').html("<img src='sk-music/images/default.png'>")
+        $(domEl).find('#cover').html("<img src='apple-music/images/default.png'>")

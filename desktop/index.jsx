@@ -8,6 +8,8 @@ const Background = styled("main")`
 	width: 100vw;
 	height: 100vh;
 	opacity: 0.2;
+	user-select: none;
+	pointer-events: none;
 
 	// Gradient / Scanline overlay
 	&:before,
